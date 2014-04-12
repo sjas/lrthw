@@ -16,3 +16,5 @@ end
 # $ puts $:
 # or 
 # $ puts $LOAD_PATH
+# To extend the path list ruby searches, extend the rubylib env var: (here for linux)
+# export RUBYLIB=$RUBYLIB:.
